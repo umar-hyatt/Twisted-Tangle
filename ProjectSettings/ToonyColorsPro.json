@@ -1,0 +1,25 @@
+{
+    "AutoNames": true,
+    "SubFolders": true,
+    "OverwriteConfig": false,
+    "LoadAllShaders": false,
+    "CustomOutputPath": "Material/Custom Shaders",
+    "LastImplementationExportImportPath": "D:/UNITY/Projects/OTHER_PROJECTS/Twisted Tangle/Assets",
+    "OpenedFoldouts": [
+        "SPECIAL EFFECTS",
+        "SHADER STATES",
+        "OPTIONS",
+        "THIRD PARTY PLUGINS",
+        "TRANSPARENCY/BLENDING",
+        "LIGHTING",
+        "SURFACE",
+        "STYLIZATION"
+    ],
+    "UseCustomFont": true,
+    "CustomFont": {
+        "fileID": 12800000,
+        "guid": "8a406076b7de34849be1f35585875a66",
+        "type": 3
+    },
+    "CustomFontInitialized": true
+}
